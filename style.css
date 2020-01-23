@@ -45,3 +45,9 @@ td input {
     text-align: center;
     background: yellow;
 }
+
+
+td:hover{
+  background-color: blue;
+  color: white;
+}
